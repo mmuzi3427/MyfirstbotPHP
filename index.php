@@ -1,6 +1,6 @@
 <?
 date_default_timezone_set('Asia/Tashkent');
-define('API_KEY', '1151828985:AAFu_24kpfdFpjIPKy3JcZhibSvEiUYA8fo');
+define('API_KEY', '7749961733:AAFRfZMlCl1IA_R21hPxshBiW5ZFLTzosi4');
 $Manager = "150105698";
 $compane = "infomir.uz LTD";
 function bot($method, $datas = []){
